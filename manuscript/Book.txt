@@ -1,5 +1,5 @@
-00_disclaimer.md
-01_README.md
+a_copyright_disclaimer.md
+a_README.md
 card-sort.md
 claiming-expenses.md
 deploying.md
