@@ -1,0 +1,10 @@
+00_disclaimer.md
+01_README.md
+card-sort.md
+claiming-expenses.md
+deploying.md
+git-env.md
+moving-a-repo-to-github.md
+playbook.md
+plugin-updates.md
+style-guide.md
